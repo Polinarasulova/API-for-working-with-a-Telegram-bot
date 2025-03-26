@@ -1,2 +1,5 @@
-# API-for-working-with-a-Telegram-bot
 Создания простого API-сервиса, который взаимодействует с Telegram-ботом
+Общие сведения:
+Тема: ASP.NET Core + Telegram API
+Цель: Создать простой API-сервис, который взаимодействует с Telegram-ботом.
+
